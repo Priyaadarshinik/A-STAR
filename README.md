@@ -153,6 +153,8 @@ G 5 <br>
 H 3 <br>
 I 1 <br>
 J 0 <br>
+A <br>
+J <br>
 <hr>
 <h2>Sample Output</h2>
 <hr>
@@ -182,6 +184,8 @@ C 99 <br>
 E 7 <br>
 D 1 <br>
 G 0 <br>
+A <br>
+G <br>
 <hr>
 <h2>Sample Output</h2>
 <hr>
